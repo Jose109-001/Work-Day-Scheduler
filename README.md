@@ -89,3 +89,9 @@ You are required to submit the following for review:
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 Press here to open: https://jose109-001.github.io/Work-Day-Scheduler/.
+
+
+
+
+![DAY PLANNER PICTURE](https://user-images.githubusercontent.com/77666204/113251923-d65a4f00-930e-11eb-81b9-6f58a809ea62.jpg)
+
